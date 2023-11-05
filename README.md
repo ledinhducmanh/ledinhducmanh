@@ -16,7 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@rewardlion/video/7240943743757552942" data-video-id="7240943743757552942" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@rewardlion" href="https://www.tiktok.com/@rewardlion?refer=embed">@rewardlion</a> Diffrence between Designers and Developers <a title="ai" target="_blank" href="https://www.tiktok.com/tag/ai?refer=embed">#AI</a> <a title="designer" target="_blank" href="https://www.tiktok.com/tag/designer?refer=embed">#designer</a> <a title="deve" target="_blank" href="https://www.tiktok.com/tag/deve?refer=embed">#deve</a> <a title="devil" target="_blank" href="https://www.tiktok.com/tag/devil?refer=embed">#devil</a> <a target="_blank" title="♬ original sound - RewardLion" href="https://www.tiktok.com/music/original-sound-7240943765828668206?refer=embed">♬ original sound - RewardLion</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0sLoqKdRYbVs9rmLTSMaK2wjW8UcMG_jfACMShEJxc8PfS2a0sS9LL2NAmOrOIJQaH4&usqp=CAU" style="width: 500px"></img>
 ---
 [![](https://visitcount.itsvg.in/api?id=ledinhducmanh&icon=0&color=0)](https://visitcount.itsvg.in)
